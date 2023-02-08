@@ -1,0 +1,32 @@
+.hero_said_boxedd{
+    margin-top: 20px;
+    color: rgb(214, 202, 209);
+    background-image: url(./img/EoIhzx\ \(1\).jpg);
+    background-size: cover;
+}
+.pp{
+      color: rgb(33 185 136);
+      text-align: center;
+      margin: 20px 200px;
+      border-radius: 12px;
+      background-color: #7e3535;
+} 
+.hero_said_boxedd p{
+    margin-left: 305px;
+}
+.hero_said_boxedd button{
+    color:#6d10e9;
+    background-color:#00ff1f;
+    border: 0px;
+    padding: 8px;
+    border-radius: 50px;
+    margin-top: -6px;
+}
+.imag_sarkil{
+    margin-top: 162px;
+    border-radius: 50px;
+}
+.imagee{
+    margin-top: 80px;
+    border-radius: 80px;
+}
